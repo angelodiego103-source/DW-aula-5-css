@@ -1,0 +1,12 @@
+h1{
+    background-color: purple; 
+    text-align: center; 
+}
+
+.titulo {
+    color:orange;
+}
+
+#descricao {
+    font-size: 45px;
+}
